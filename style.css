@@ -1,0 +1,16 @@
+body {
+  background: #fbf4e9;
+  font-family: sans-serif;
+  font-size: medium;
+  text-align: center;
+  padding: 20px;
+}
+
+.kalkulator {
+  background-color: #fe8f8f;
+  width: 230px;
+  text-align: left;
+  margin: 50px auto;
+  padding: 15px;
+  border-radius: 10px;
+}
